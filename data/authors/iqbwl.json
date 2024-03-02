@@ -1,0 +1,10 @@
+{
+    "name": "Iqbwl",
+    "image" : "img/cat-stark.jpg",
+    "bio": "Owner",
+    "social": [
+        { "email": "mailto:iqbwl@titik.xyz"},
+        { "x-twitter": "https://twitter.com/ikanbwl" },
+        { "github": "https://github.com/iqbwl" }
+    ]
+}

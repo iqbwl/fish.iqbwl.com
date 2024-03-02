@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Iqbwl"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  #logo = "img/cat-1.png"
+  # secondaryLogo = "PATH"
+  description = "I am just a man, not superhuman!!"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Iqbwl"
+  image = "img/cat-stark.jpg"
+  headline = "I am just a man, not superhuman!!"
+  bio = "I am just a man, not superhuman!!"
+  links = [
+    { email = "mailto:iqbwl@titik.xyz"},
+    { x-twitter = "https://twitter.com/ikanbwl" },
+    { github = "https://github.com/iqbwl" },
+  ]
+
+  
