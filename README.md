@@ -1,3 +1,3 @@
 # README
 
-Iqbwl.com github repo, build using hugo and [blowfish](https://github.com/nunocoracao/blowfish) theme.
+Iqbwl.com github repo, built using hugo and [blowfish](https://github.com/nunocoracao/blowfish) theme.
