@@ -18,16 +18,7 @@
 [[main]]
   name = "Docs"
   pageRef = "docs"
-  weight = 15
-
-[[main]]
-  name = "More"
   weight = 20
-
-[[main]]
-  name = "Nginx"
-  parent = "More"
-  pageRef = "docs/nginx"
 
 [[main]]
   name = "Tools"

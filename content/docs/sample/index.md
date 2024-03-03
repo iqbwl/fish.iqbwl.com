@@ -1,7 +1,7 @@
 ---
 title: "Lorem Ipsum Docs"
 date: 2024-03-02
-draft: false
+draft: true
 description: "Sample"
 slug: "sample"
 tags: ["sample"]

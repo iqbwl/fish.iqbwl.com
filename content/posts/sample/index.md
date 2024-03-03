@@ -1,11 +1,10 @@
 ---
 title: "Lorem Ipsum Posts"
 date: 2024-03-02
-draft: false
+draft: true
 description: "Sample"
 slug: "sample"
 tags: ["sample"]
-layout: "simple"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dapibus convallis nisl, at efficitur lacus semper non. Maecenas sit amet lorem imperdiet, pharetra lectus ut, ultrices mi. Vestibulum nunc velit, auctor at ultricies quis, pharetra a nisl. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris imperdiet elit et augue posuere pretium sit amet nec leo. Vestibulum eget urna augue. Vivamus ut augue urna. Quisque quis leo diam. Morbi tellus dolor, sodales rhoncus interdum at, dapibus eget neque. Suspendisse a tincidunt dui. Nulla et ultrices nunc. Nam vel nunc tincidunt, vulputate leo vel, pellentesque arcu. Phasellus fringilla pellentesque laoreet. In lacus odio, condimentum nec metus viverra, placerat eleifend est. Nulla a odio sodales, auctor felis vitae, pharetra tortor.
