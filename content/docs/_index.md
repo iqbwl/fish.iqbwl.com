@@ -9,5 +9,5 @@ cascade:
 ---
 
 {{< lead >}}
-Ini adalah beberapa dokumentasi yang saya tulis.
+Ini adalah beberapa dokumentasi yang sudah saya tulis.
 {{< /lead >}}
